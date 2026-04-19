@@ -1,26 +1,3 @@
-"""
-=============================================================
-FASE 1 — PREPROCESAMIENTO PEMS-BAY + US ACCIDENTS
-Proyecto: Modelo Unificado de Predicción (Congestión + Incidentes)
-=============================================================
-INSTRUCCIONES:
-1. Estructura de carpetas:
-   fase1/
-   ├── data/
-   │   ├── PEMS-BAY.csv
-   │   ├── adj_mx_bay.pkl
-   │   ├── PEMS-BAY-META.csv
-   │   └── US_Accidents_March23.csv
-   ├── outputs/
-   └── fase1_pipeline_REAL.py
-
-2. Desde terminal, entra a la carpeta fase1:
-      cd ruta/a/tu/carpeta/fase1
-
-3. Corre:
-      python fase1_pipeline_REAL.py
-"""
-
 import pandas as pd
 import numpy as np
 import pickle
