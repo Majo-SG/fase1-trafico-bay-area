@@ -1,4 +1,4 @@
-Fecha_Hora,Velocidad_mph,Texto_Incidente,Severidad_Max,N_Incidentes,Calles_Afectadas,Clima,Temperatura_F
+timestamp,speed_mph,incident_text,max_severity,n_incidents,affected_streets,weather,temperature_f
 2017-01-01 00:00:00,68.08,Accident on I-80 Westbound at Exit 15 Cutting Blvd. | Accident on I-580 Southbound at Exit 12 I-80 I-580.,3,2,"I-80 E, I-580 W",Overcast,47.6
 2017-01-01 01:00:00,67.69,Lane blocked and queueing traffic due to accident on I-580 Eastbound at Exit 11 Bayview Ave. | Queueing traffic due to accident on I-80 Westbound at Exit 15 Cutting Blvd.,3,2,"Bayview Ave, I-80 E",Mostly Cloudy,44.1
 2017-01-01 02:00:00,67.24,Normal traffic flow,0,0,,Clear,58.4
