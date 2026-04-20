@@ -1,26 +1,3 @@
-"""
-=============================================================
-PHASE 1 — PEMS-BAY + US ACCIDENTS PREPROCESSING
-Project: Unified Prediction Model (Congestion + Incidents)
-=============================================================
-INSTRUCTIONS:
-1. Folder structure:
-   fase1/
-   ├── data/
-   │   ├── PEMS-BAY.csv
-   │   ├── adj_mx_bay.pkl
-   │   ├── PEMS-BAY-META.csv
-   │   └── US_Accidents_March23.csv
-   ├── outputs/
-   └── fase1_pipeline_REAL.py
-
-2. Navigate to the fase1 folder in terminal:
-      cd path/to/your/folder/fase1
-
-3. Run:
-      python fase1_pipeline_REAL.py
-"""
-
 import pandas as pd
 import numpy as np
 import pickle
